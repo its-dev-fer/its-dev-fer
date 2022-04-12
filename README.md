@@ -8,7 +8,9 @@ Soy Desarrollador de software con cuatro años de experiencia trabajando para el
 
 > 💼🤵🏻‍♂️ Actualmente establezco contacto con el cliente para desarrollar experiencias tecnológicas.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-dev-fer&count_private=true&show_icons=true&theme=radical&border_radius=20)](https://github.com/its-dev-fer)
+| Estadísticas | Lenguajes | Visitantes | Mis seguidores |
+| ----------- | ----------- | ----------- | ----------- |
+| [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-dev-fer&count_private=true&show_icons=true&theme=radical&border_radius=20)](https://github.com/its-dev-fer) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-dev-fer&layout=compact&theme=radical&count_private=true&border_radius=20)](https://github.com/its-dev-fer) | ![Interesados en mi trabajo](https://visitor-badge.laobi.icu/badge?page_id=its-dev-fer&label=Visitantes) | [![Mis seguidores](https://img.shields.io/github/followers/CharalambosIoannou?label=Seguidores&style=social)](https://github.com/its-dev-fer) |
 
 
 ## Contacto
