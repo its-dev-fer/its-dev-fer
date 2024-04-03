@@ -4,7 +4,7 @@
 
 # Ing. Fernando Morales
 
-Soy Desarrollador de software con cinco años de experiencia trabajando para el sector privado y gubernamental.
+Soy Desarrollador de software con seis años de experiencia trabajando para el sector privado y gubernamental.
 
 > 💼🤵🏻‍♂️ Actualmente establezco contacto con el cliente para desarrollar experiencias tecnológicas.
 
