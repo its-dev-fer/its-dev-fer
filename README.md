@@ -33,12 +33,12 @@ Founder of **Nova Consulting** – delivering **custom software solutions, e-com
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fermoralesmx&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fermoralesmx&layout=compact&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=its-dev-fer&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-dev-fer&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fermoralesmx&theme=radical&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=its-dev-fer&theme=radical&hide_border=true" height="180" />
 </p>
 
 
