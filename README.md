@@ -5,14 +5,13 @@
 # 👋 Hi, I’m Fernando Hernandez
 
 💻 **Senior Software Engineer | Tech Entrepreneur | Innovator**  
-Founder of **Nova Consulting** – delivering **custom software solutions, e-commerce systems, and 3D printing technology** to empower businesses worldwide.  
+Senior Full Stack with 8+ years of experience – delivering **custom software solutions and e-commerce systems** to empower businesses worldwide.  
 
 ---
 
 ## 🚀 About Me  
 - 🌍 Based in **Mexico**, working with clients globally.
 - 🏗 Building **custom software systems** (internal + external).
-- 🤝 Providing **contractors & dev teams** to accelerate projects.
 
 ---
 
@@ -39,10 +38,6 @@ Founder of **Nova Consulting** – delivering **custom software solutions, e-com
 
 <a href="https://wa.me/+529611003141" target="_blank">
 <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
-</a>
-
-<a href="https://www.facebook.com/IDSFernando" target="_blank">
-<img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>
 </a>
 
 ---
